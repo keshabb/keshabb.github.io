@@ -302,6 +302,11 @@ a { text-decoration:none; }
         width: 60px;
     }
 
+    img[alt="certicon"] { 
+        height: 100px;
+        width: 100px;
+    }
+
     ul + p { margin-top: -2rem; }
 
     .content-header + .item { margin-top: 0; }

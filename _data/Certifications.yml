@@ -2,11 +2,16 @@ subject: Certifications
 listing-order: 2
 icon: "/assets/img/certificates-list.png"
 contents:
-  - title: "![devicon](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/sap-badge-resized.9e8ae1262604d016faf72f1be40387fc6b1ae133.png)"
+  - title: "Amazon Web Services"
     description: "
-      AWS Solutions Architect – Professional
+      ![certicon](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/sap-badge-resized.9e8ae1262604d016faf72f1be40387fc6b1ae133.png)
+      ![certicon](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/saa-badge-resized.9b93c4e701caace22b68eeb10292c9de9d3c44c2.png)
       "
-  - title: "![devicon](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/sap-badge-resized.9e8ae1262604d016faf72f1be40387fc6b1ae133.png)"
+  - title: "Redhat"
     description: "
-      AWS Solutions Architect – Associate
+      ![certicon](https://www.redhat.com/cms/managed-files/styles/scale_xlarge/public/2020-11/rhce-badge.png)
+      "
+  - title: "Cisco"
+    description: "
+      ![certicon](https://www.cisco.com/c/dam/m/en_us/training-events/certifications/images/badge-ccna.png)
       "
