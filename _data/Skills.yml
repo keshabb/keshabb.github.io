@@ -1,24 +1,26 @@
 subject: Skills
-listing-order: 6
+listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
-    "
-  - title: Frameworks
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
-    "
+    description:
+      - Python, Bash, SQL
+  - title: Cloud
+    description:
+      - AWS, Azure, OpenStack
+  - title: DevOps and CI/CD Tools
+    description:
+      - Containers -> Docker, ECS, EKS
+      - CI/CD -> GitHub, Jenkins, GitLab CI, Bamboo, Azure DevOps, AWS CodePipeline, Jfrog Artifactory, Jira, Confluence
+      - Configuration Management -> Ansible, SaltStack, Puppet
+      - IaC -> Terraform, CloudFormation
+      - Monitoring -> Datadog, ElasticSearch, Nagios, Splunk, NewRelic
+  - title:  Operating Systems
+    description:
+      - Linux (Ubuntu, CentOS, RedHat), Windows Server    
+  - title: Databases
+    description:
+      - AWS RDS, Oracle, PostgreSQL, MySQL, MongoDB, DynamoDB
+  - title: Networking
+    description:
+      - Cisco Routers/Switches, VPNs, Firewalls
