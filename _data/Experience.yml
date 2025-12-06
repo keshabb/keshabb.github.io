@@ -2,21 +2,46 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Constellation Brands
+    role: Lead/Senior DevOps Engineer
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Led AWS cloud migration planning and execution for enterprise-scale applications, resulting in improved scalability and 30% cost efficiency. 
+      - Developed and automated AWS cloud tooling, governance, and compliance processes, reducing manual intervention by 50%. 
+      - Implemented Infrastructure as Code (IaC) with Terraform and CloudFormation, enabling consistent and repeatable environment provisioning across multiple regions.
+    date: April. 2023 - Present
+  - title: Capital One
+    role: Principal DevOps Engineer
+    description:
+      - Collaborated with Agile teams to design, develop, test, and support full-stack and cloud-based solutions.
+      - Worked with digital product managers to deliver customer-focused cloud applications.
+      - Developed a compliance automation tool, streamlining infrastructure and application compliance across Capital One.
+      - Built an automated vulnerability tracking process in Jira, enabling resource identification and issue assignment for relevant teams.
+      - Contributed to the enterprise-wide CI/CD pipeline at Capital One.
+      - Partnered with a third-party vendor to migrate infrastructure and applications from on-premises data centers to the cloud.
+      - Coordinated with the QA team to test products post-migration in the cloud environment.
+      - Successfully migrated infrastructure and applications to the cloud, enabling data center exit, cost savings, and improved scalability.
+      - Automated manual processes during the migration to enhance efficiency and reliability.
+    date: Oct. 2018 - Apr. 2023
+  - title: Riverbed Technology
+    role: Senior DevOps Engineer
+    description:
+      - Automated manual workflows using the Atlassian Suite and Artifactory for CI/CD, including staging and production environments.
+      - Implemented backup and monitoring for production systems.
+      - Configured Jira projects, workflows, and security for Riverbed products.
+      - Developed, managed, and monitored engineering operations tools.
+      - Provided DevOps and CI/CD support to engineering and operations teams.
+      - Set up staging and production CI/CD pipelines on AWS, migrating infrastructure from on-premises to the cloud.
+      - Automated release branch tagging for over 200 repositories to streamline product builds and releases.
+      - Migrated issue and bug tracking from Bugzilla to Jira for customer products.
+    date: May. 2015 - Oct. 2018
+  - title: Wolfram Research
+    role: System Administrator
+    description:
+      - Led cloud migration, infrastructure development, deployment, and monitoring for web applications.
+      - Designed, built, and maintained high-performance platforms on Linux (on-premises and AWS cloud).
+      - Monitored and supported Apache, Tomcat, MySQL, and application environments.
+      - Performed system analysis, performance tuning, deployment, debugging, and troubleshooting across development, test, and production.
+      - Migrated infrastructure and applications from in-house data center to AWS cloud.
+      - Built private cloud images of products for both on-premises and cloud customer hosting.
+      - Implemented Splunk for application logging, metrics, and dashboard.
+    date: Jun. 2011 - Mar. 2015
