@@ -8,7 +8,7 @@ contents:
       - Led AWS cloud migration planning and execution for enterprise-scale applications, resulting in improved scalability and 30% cost efficiency. 
       - Developed and automated AWS cloud tooling, governance, and compliance processes, reducing manual intervention by 50%. 
       - Implemented Infrastructure as Code (IaC) with Terraform and CloudFormation, enabling consistent and repeatable environment provisioning across multiple regions.
-    date: April. 2023 - Present
+    date: Apr. 2023 - Present
   - title: Capital One
     role: Principal DevOps Engineer
     description:
