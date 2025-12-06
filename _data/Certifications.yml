@@ -1,0 +1,12 @@
+subject: Certifications
+listing-order: 2
+icon: "/assets/img/certificates-list.png"
+contents:
+  - title: "![devicon](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/sap-badge-resized.9e8ae1262604d016faf72f1be40387fc6b1ae133.png)"
+    description: "
+      AWS Solutions Architect – Professional
+      "
+  - title: "![devicon](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/sap-badge-resized.9e8ae1262604d016faf72f1be40387fc6b1ae133.png)"
+    description: "
+      AWS Solutions Architect – Associate
+      "
