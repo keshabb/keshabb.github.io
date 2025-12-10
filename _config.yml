@@ -10,9 +10,8 @@ email: kb4it.professional@gmail.com
 linkedin_username: keshab-budhathoky-sendevopseng
 github_username: keshabb
 twitter_username: KBudhathoky
-youtube_username: @TechWithkbt
-blog_url: homepage-url
-
+youtube_username: ITTechMonk
+blog_url: https://keshabb.blogspot.com/
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
 baseurl:
