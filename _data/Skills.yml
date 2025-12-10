@@ -11,16 +11,16 @@ contents:
   - title: DevOps and CI/CD Tools
     description:
       - Containers -> Docker, ECS, EKS
-      - CI/CD -> GitHub, Jenkins, GitLab CI, Bamboo, Azure DevOps, AWS CodePipeline, Jfrog Artifactory, Jira, Confluence
+      - CI/CD -> GitHub, Jenkins, GitLab CI, Bitbucket, Bamboo, Azure DevOps, AWS CodePipeline, Jfrog Artifactory, Jira, Confluence
       - Configuration Management -> Ansible, SaltStack, Puppet
       - IaC -> Terraform, CloudFormation
-      - Monitoring -> Datadog, ElasticSearch, Nagios, Splunk, NewRelic
+      - Monitoring and Observability -> Datadog, Kibana, Nagios, Splunk, NewRelic, CloudWatch
   - title:  Operating Systems
     description:
       - Linux (Ubuntu, CentOS, RedHat), Windows Server    
   - title: Databases
     description:
-      - AWS RDS, Oracle, PostgreSQL, MySQL, MongoDB, DynamoDB
+      - AWS RDS, Oracle, PostgreSQL, MySQL, DynamoDB
   - title: Networking
     description:
       - Cisco Routers/Switches, VPNs, Firewalls
